@@ -16,7 +16,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly("io.papermc.paper:paper-api:${libs.versions.minecraft.get()}.build.${libs.versions.paper.build.get()}")
+    compileOnly("io.papermc.paper:paper-api:26.3.build.+")
     implementation(libs.bstats.bukkit)
 }
 
