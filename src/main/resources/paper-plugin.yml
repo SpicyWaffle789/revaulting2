@@ -6,5 +6,5 @@ description: |
 authors:
   - Minacle
 website: https://modrinth.com/plugin/revaulting
-api-version: "1.21"
+api-version: "26.3"
 folia-supported: true
