@@ -71,4 +71,3 @@ You are free to use, modify, and distribute it without restriction.
 
 ---
 
-![bStats](https://bstats.org/signatures/bukkit/Revaulting.svg)
