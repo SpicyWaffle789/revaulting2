@@ -1,10 +1,10 @@
-name: Revaulting
+name: Revaulting2
 version: "${version}"
 main: moe.minacle.minecraft.plugins.revaulting.Plugin
 description: |
   Remove the one-time limit of Vaults and Ominous Vaults.
 authors:
-  - Minacle
-website: https://modrinth.com/plugin/revaulting
+  - spicywaffle789
+website: https://github.com/SpicyWaffle789/revaulting2
 api-version: "26.3"
 folia-supported: true
