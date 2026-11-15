@@ -1,4 +1,4 @@
-package moe.minacle.minecraft.plugins.revaulting2;
+package moe.minacle.minecraft.plugins.revaulting;
 
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
